@@ -6,3 +6,4 @@ aliases:
 
 ## Uncategorized
 - [[Variance]]
+- [[Mean]]

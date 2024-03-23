@@ -6,7 +6,7 @@ aliases:
 $$f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{1}{2}\left(\frac{x - \mu}{\sigma}\right)^2}$$
 - $f(x)$ = Probability Density Function
 - $\sigma$ = [[Variance|Standard Deviation]]
-- $\mu$ = Mean
+- $\mu$ = [[Mean]]
 
 ## Central Limit Theorem
 
