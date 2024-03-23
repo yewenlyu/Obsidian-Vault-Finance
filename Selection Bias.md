@@ -20,5 +20,5 @@ The government can make it mandatory that insurance companies do not look at th
 
 - Penalty for individuals not buying insurance
 - Penalty for companies not buying insurance for their employees
- - New insurance exchanges A health insurance exchange is a set of state regulated and standardized health care plans, from which individuals may purchase health insurance that is eligible for Federal subsidies
-- Insurance companies may not disallow for preexisting conditions, or drop people who get sick
+- New insurance exchanges A health insurance exchange is a set of state regulated and standardized health care plans, from which individuals may purchase health insurance that is eligible for Federal subsidies
+- Insurance companies may not disallow for preexisting conditions, or drop people who get sick.

@@ -9,3 +9,8 @@ In [[Insurance|insurance]], Moral hazard occurs when people knowing they are in
 
 - Deductions
 - Co-insurance
+
+## Example: The Health Maintenance Organization Act of 1973
+
+- Designed to overcome [[moral hazard]] problem, doctors earning fees for procedures make more money if people are sick
+- Required employers with 25 or more employees to offer federally certified HMO options
