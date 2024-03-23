@@ -14,4 +14,4 @@ $$\text{Standard Deviation} = \sqrt{\frac{1}{n}\sum^n_{i=1}\left(R_i - \overline
 ## [[Risk]] Assessment
 
 - High variance or standard deviation - Indicates that an investment is **risky** due to its **volatile price movements**.
-- Low variance or standard deviation - Indicates that an investment is **calm** and not subject to wild swings, resulting in **lower risk**.
+- Low variance or standard deviation - Indicates that an investment is **calm** and not subject to wild swings, resulting in **lower [[risk]]**.
