@@ -1,6 +1,7 @@
 ---
 aliases:
   - CAPM
+  - Capital Asset Pricing Model
 ---
 The Capital Asset Pricing Model (CAPM) is a financial model that calculates the expected rate of [[return]] for an [[asset]] or investment. It establishes a linear relationship between the required [[return]] on an investment and its [[Risk|risk]].
 
