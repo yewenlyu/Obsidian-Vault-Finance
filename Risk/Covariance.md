@@ -6,7 +6,7 @@ aliases:
 $$\text{Cov}(X, Y) = \frac{1}{n-1} \sum_{i=1}^{n} (X_i - \bar{X})(Y_i - \bar{Y})$$
 Covariance is one of the essential idea of [[CAPM (Capital Asset Pricing Model)]] - 
 
-[[Risk]] is determined by covariance. Especially if you hold a large number of [[Asset|assets]]. [[Idiosyncratic Risk]] just doesn't matter. It all averages out. 
+[[Risk]] is determined by covariance. Especially if you hold a large number of [[Asset|assets]]. Idiosyncratic Risk just doesn't matter. It all averages out. 
 
 The [[Systematic Risk|systematic risk]], the [[Beta]], is equal to the [[Covariance|covariance]] divided by the [[Variance|variance]] of the market returns.
 $$\beta = \frac{\text{Cov}(R_i, R_m)}{\text{Var}(R_m)}$$ 
